@@ -5,6 +5,12 @@ _
 -
 diagram: https://drive.google.com/file/d/1XouUW8P9IAF4uE8nd9eXsi3euff5Ik3x/view?usp=sharing
 _
+_
+Generic Source :
+Home: https://developer.mozilla.org/fr/docs/Apprendre/Utiliser_les_pages_GitHub
+gh-pages BRANCH : https://developer.mozilla.org/fr/docs/Apprendre/Utiliser_les_pages_GitHub#Votre-code-est-publi%C3%A9-sur-GitHub
+_
+_
 ABSTRACT:
 _
 a l'usage des Utilisateurs de GITHUB et de forked DRAW.IO dans une BRANCH gh-pages
