@@ -26,7 +26,7 @@ MASTER BRANCH
 URL = https://github.com/Olmatro/drawio
 _
 _
-INTERMEDIATE to WEB Page publication:
+from INTERMEDIATE to WEB Page publication:
 _
 INTERMEDIATE MASTER BRANCH -> publication BRANCH:
 _
